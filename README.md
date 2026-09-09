@@ -1,12 +1,12 @@
 # HR Analytics & Employee Performance Dashboard
 
-## 📊 Project Overview
+##  Project Overview
 
 This project analyzes employee data to understand workforce composition, employee attrition, salary patterns, job satisfaction, and performance.
 
 An interactive Power BI dashboard was created to identify key HR trends and provide actionable insights for better employee retention and workforce management.
 
-## 🎯 Objectives
+##  Objectives
 
 - Analyze overall employee attrition
 - Identify departments and job roles with higher attrition
@@ -16,14 +16,14 @@ An interactive Power BI dashboard was created to identify key HR trends and prov
 - Identify potential pay-equality concerns
 - Provide useful HR insights for decision-making
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **Power BI** – Dashboard development and visualization
 - **DAX** – Calculated columns and HR metrics
 - **Power Query** – Data cleaning and transformation
 - **Excel/CSV** – Source employee dataset
 
-## 📌 Key KPIs
+##  Key KPIs
 
 - Total Employees: **1.47K**
 - Employees Left: **237**
@@ -31,7 +31,7 @@ An interactive Power BI dashboard was created to identify key HR trends and prov
 - Average Salary: **6.50K**
 - Average Performance: **3.15**
 
-## 📈 Dashboard Analysis
+##  Dashboard Analysis
 
 ### Page 1 – HR Analytics & Employee Performance
 
@@ -55,7 +55,7 @@ The dashboard includes:
 - Attrition Rate by Department and Satisfaction
 - Pay Equality Flag analysis
 
-## 🔍 Key Insights
+##  Key Insights
 
 1. **Research & Development has the highest number of employee exits**, making it an important area for retention analysis.
 
@@ -67,7 +67,7 @@ The dashboard includes:
 
 5. **Salary and performance analysis can highlight potential pay-equality red flags**, where employee performance and compensation appear less aligned.
 
-## 💡 Recommendations
+##  Recommendations
 
 - Strengthen retention programs in high-attrition departments.
 - Investigate the reasons behind early-stage employee turnover.
@@ -75,7 +75,7 @@ The dashboard includes:
 - Review compensation across similar roles and performance levels.
 - Conduct regular salary-equity reviews to identify potential pay gaps.
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 HR-Analytics/
